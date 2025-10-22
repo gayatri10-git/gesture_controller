@@ -17,7 +17,7 @@ Use your webcam and control YouTube like magic:
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - **MediaPipe** detects your hand landmarks in real-time.  
 - **OpenCV** processes the video feed and draws the skeleton overlay.  
@@ -26,7 +26,7 @@ Use your webcam and control YouTube like magic:
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Library | Purpose |
 |----------|----------|
